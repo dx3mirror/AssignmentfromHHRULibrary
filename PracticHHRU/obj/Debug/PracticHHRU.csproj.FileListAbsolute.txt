@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\PracticHHRU\PracticHHRU\bin\Debug\PracticHHRU.dll
+C:\Users\HP\source\repos\PracticHHRU\PracticHHRU\bin\Debug\PracticHHRU.pdb
+C:\Users\HP\source\repos\PracticHHRU\PracticHHRU\obj\Debug\PracticHHRU.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PracticHHRU\PracticHHRU\obj\Debug\PracticHHRU.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PracticHHRU\PracticHHRU\obj\Debug\PracticHHRU.dll
+C:\Users\HP\source\repos\PracticHHRU\PracticHHRU\obj\Debug\PracticHHRU.pdb
